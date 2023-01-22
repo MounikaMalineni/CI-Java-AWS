@@ -206,11 +206,11 @@
         
         </plugins>
     </build>
-  <repositories>
+    <repositories>
       <repository>
-        <id>codeartifact</id>
-        <name>codeartifact</name>
-    <url>https://domainame-accountid.d.codeartifact.regioncode.amazonaws.com/maven/maven-central-store/</url>
+        <id>devopsolutions-ci-java-aws-artifact</id>
+        <name>devopsolutions-ci-java-aws-artifact</name>
+        <url>https://devopsolutions-955309292288.d.codeartifact.eu-west-2.amazonaws.com/maven/ci-java-aws-artifact/</url>
       </repository>
     </repositories>
 </project>
