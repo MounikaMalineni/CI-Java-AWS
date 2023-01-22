@@ -10,6 +10,7 @@ phases:
   install:
     runtime-versions:
       java: corretto8
+      nodejs: 14
     commands:
     - cp ./settings.xml /root/.m2/settings.xml
   pre_build:
